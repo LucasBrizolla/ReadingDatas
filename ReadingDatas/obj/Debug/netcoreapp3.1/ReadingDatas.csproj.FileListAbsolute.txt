@@ -1,0 +1,13 @@
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\ReadingDatas\ReadingDatas\bin\Debug\netcoreapp3.1\ReadingDatas.exe
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\ReadingDatas\ReadingDatas\bin\Debug\netcoreapp3.1\ReadingDatas.deps.json
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\ReadingDatas\ReadingDatas\bin\Debug\netcoreapp3.1\ReadingDatas.runtimeconfig.json
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\ReadingDatas\ReadingDatas\bin\Debug\netcoreapp3.1\ReadingDatas.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\ReadingDatas\ReadingDatas\bin\Debug\netcoreapp3.1\ReadingDatas.dll
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\ReadingDatas\ReadingDatas\bin\Debug\netcoreapp3.1\ReadingDatas.pdb
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\ReadingDatas\ReadingDatas\obj\Debug\netcoreapp3.1\ReadingDatas.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\ReadingDatas\ReadingDatas\obj\Debug\netcoreapp3.1\ReadingDatas.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\ReadingDatas\ReadingDatas\obj\Debug\netcoreapp3.1\ReadingDatas.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\ReadingDatas\ReadingDatas\obj\Debug\netcoreapp3.1\ReadingDatas.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\ReadingDatas\ReadingDatas\obj\Debug\netcoreapp3.1\ReadingDatas.dll
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\ReadingDatas\ReadingDatas\obj\Debug\netcoreapp3.1\ReadingDatas.pdb
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\ReadingDatas\ReadingDatas\obj\Debug\netcoreapp3.1\ReadingDatas.genruntimeconfig.cache
